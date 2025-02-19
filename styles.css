@@ -160,3 +160,8 @@ h2 {
 .apresenta-lista{
     display: none;
 }
+#tropicalia{
+    position: relative;
+    background-image: url('img/4965007.jpg');
+    background-size: 180px 180px; 
+}
