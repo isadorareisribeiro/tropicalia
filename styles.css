@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/665418a7f880e0a30174ddc0714f81a7-removebg-preview.png') top right no-repeat,
+        url('img/acb77bdf8cb13d30c59d665ce8655456-removebg-preview.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/pngtree-barrel-popcorn-pattern-png-image_4538379.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
